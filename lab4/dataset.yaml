@@ -1,0 +1,9 @@
+# Ścieżki do zbiorów obrazów
+train: dataset/train/images 
+val: dataset/val/images
+
+# Nazwy klas
+names: ['food']
+
+# Liczba klas
+nc: 1
